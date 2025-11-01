@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## FOLDER STRUCTURE:
 
+```
 lib/
 │
 ├── provider/
@@ -17,7 +18,7 @@ lib/
 │
 └── screens/
 └── toggle_page.dart // Main UI Page
-
+```
 ## How It Works
 
 - The app initializes multiple providers using MultiProvider in main.dart.
